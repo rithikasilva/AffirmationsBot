@@ -1,4 +1,4 @@
-# AffirmationsBot :robot:
+# AffirmationsBot :star::robot::start:
 
 A robot for all your affirmation needs! 
 
