@@ -8,5 +8,5 @@ Users will need to create a config.py file to specify the bot token and specifie
 
 (THIS IS NOT A SERIOUS PROJECT, JUST FOR SOME FUN 😄).
 
-The bot runs on the "https://www.affirmations.dev/" API.
+The bot uses the "https://www.affirmations.dev/" API.
 
